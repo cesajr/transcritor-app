@@ -32,7 +32,7 @@ Este projeto foi construído utilizando o estado da arte em processamento de lin
 
 Para utilizar o Transcritor, siga os passos abaixo:
 
-1. Acesse a aba [Releases](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases) deste repositório.
+1. Acesse a aba [Releases](https://github.com/cesajr/transcritor-app/releases) deste repositório.
 2. Baixe o arquivo `Instalador_Transcritor_Final.exe`.
 3. Execute o instalador e siga as instruções na tela.
 4. O atalho será criado automaticamente na sua Área de Trabalho.
