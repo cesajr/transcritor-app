@@ -28,6 +28,30 @@ Este projeto foi construído utilizando o estado da arte em processamento de lin
 
 ---
 
+## 💻 Requisitos de Sistema
+
+Para garantir que a Inteligência Artificial processe os dados com fluidez, recomendam-se as seguintes especificações:
+
+### Mínimos (Processamento Lento)
+- **Sistema Operacional:** Windows 10 ou 11 (64 bits).
+- **Processador (CPU):** Intel Core i3 (8ª geração) ou AMD Ryzen 3.
+- **Memória RAM:** 8 GB.
+- **Espaço em Disco:** 2 GB livres (para instalação e cache de modelos).
+
+### Recomendados (Processamento Rápido)
+- **Sistema Operacional:** Windows 10 ou 11 (64 bits).
+- **Processador (CPU):** Intel Core i5/i7 (10ª geração ou superior) ou AMD Ryzen 5/7.
+- **Memória RAM:** 16 GB.
+- **Armazenamento:** SSD (Reduz drasticamente o tempo de carregamento do motor de IA).
+
+---
+
+## 🛠️ Notas de Instalação e Uso
+
+1. **Primeira Execução:** Ao abrir o app pela primeira vez, o motor neural é inicializado. Isso pode levar alguns segundos dependendo da sua CPU.
+2. **Desempenho:** Por ser uma ferramenta **100% Offline**, a velocidade da transcrição depende exclusivamente do poder de processamento do seu computador. 
+3. **Privacidade:** O software não requer conexão com a internet em nenhum momento após a instalação.
+
 ## 📥 Instalação
 
 Para utilizar o Transcritor, siga os passos abaixo:
